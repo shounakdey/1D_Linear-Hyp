@@ -1,0 +1,15 @@
+512
+0
+1.0
+1
+1.0e-04
+1.0
+2
+///////////////////////////////////////
+1. Number of grid points (N)
+2. Start point of domain (x_ini)
+3. End point of domain (x_fin)
+4. Velocity value (c)
+5. Time step (delt)
+6. Final time (t_final)
+7. Solver Selector (0 - Upwind, 1 - Lax-Wendroff, 2 - MacCormack)
